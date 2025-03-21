@@ -19,7 +19,7 @@ This project implements **Signature Recognition** using **Convolutional Neural N
 - `i201819_ImamaAmjad_Ass1.pdf` → Detailed analysis, methodology, and results
 - `README.md` → Project documentation (to be expanded)
   
-For now, please refer to the report.pdf for dataset details, preprocessing steps, and model evaluation. The README will be expanded soon with additional explanations.
+For now, please refer to the i201819_ImamaAmjad_Ass1.pdf for dataset details, preprocessing steps, and model evaluation. The README will be expanded soon with additional explanations.
 
 ---
 ## Future Enhancements  
